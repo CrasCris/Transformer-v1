@@ -1,0 +1,7 @@
+__pycache__/
+/__pycache__/
+main.ipynb
+runs
+weights
+tokenizer_es.json
+tokenizer_it.json
